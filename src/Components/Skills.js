@@ -13,7 +13,7 @@ const Skills = () => {
         name="skills"
         className="flex md:justify-center items-center space-y-6 tracking-widest mt-10 mb-10 mx-5 "
       >
-        <h3 className="flex text-4xl font-medium my-4">Skills</h3>
+        <h3 className="flex text-4xl font-medium my-4 pl-5">Skills</h3>
       </div>
 
       <div className="px-3 md:lg:xl:px-40  border-t py-20 bg-opacity-10">

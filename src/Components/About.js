@@ -23,33 +23,28 @@ const About = () => {
   return (
     <div name="about" className=" mt-32 mb-10 ">
       <div className="flex md:justify-center items-center space-y-6 tracking-widest  mb-10 mx-5 ">
-        <h3 className="flex text-4xl font-medium -my-4">About</h3>
+        <h3 className="flex text-4xl font-medium -my-4 pl-5">About</h3>
       </div>
 
-      <main className="mt-8 border-t mb-24">
-        <h2 className="text-gray-700 dark:text-gray-200 mt-11">Hi</h2>
+      <main className=" border-t ">
+        <h2 className="text-gray-700 dark:text-gray-200 p-8 pb-0">Hi,</h2>
 
-        <p className="mt-2  text-sm lg:text-lg md:text-lg space-x-3  justify-items-end text-gray-600 dark:text-gray-300">
+        <p className=" font-mono p-9 pt-2 mt-0 pb-0 text-sm lg:text-lg md:text-lg space-x-4 justify-center text-gray-600 dark:text-gray-300">
           My name is <span style={{ color: "cyan" }}>Aina Ali,</span> I belong
           to Bijnor of UttarPradesh. Eager and enthusiastic recent
-          post-graduated in
-          <span style={{ color: "cyan" }}> Computers Applications </span>
-          in july 2023. I aim to apply my eduacational knowledge in a dynamic
+          post-graduated in <span style={{ color: "cyan" }}> Computer Applications </span>
+          in july 2023. I aim to apply my educational knowledge in a dynamic
           organization that encourages growth and innovation. With a strong
           academic foundation and a passion for learning, I am excited to
           contribute to the success of a forward thinking team. I am pretty much
-          interested in <span style={{ color: "cyan" }}>
-            Web Developement
-          </span>{" "}
-          ,I would like to enhance my interest to use and grow my knowledge
-          towrards web technology. Currently, I am learning fronend technologies
-          expereincing
-          <span style={{ color: "cyan" }}>
-            Javascript, React JS, HTML, CSS,Tailwind CSS.
+          interested in<span style={{ color: "cyan" }}>Web Developement</span>
+          , I would like to enhance my interest to use and grow my knowledge
+          towards web technology. Currently, I am learning frontend technologies
+          expereincing<span style={{ color: "cyan" }}> Javascript, React JS, HTML, CSS,Tailwind CSS.
           </span>
         </p>
 
-        <p className="mt-2 text-gray-600 dark:text-gray-300">
+        <p className=" text-gray-600 dark:text-gray-300 mt-6 pl-8 ">
           Thankyou <br />
         </p>
       </main>

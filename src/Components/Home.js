@@ -35,7 +35,7 @@ const Home = () => {
       </div>
       <div className="">
         <img
-          className="w-[14rem] md:w-[14rem]  h-60 lg:h-80 mb-7 mt-5 lg:mr-24 "
+          className="w-[14rem] md:w-[14rem]  h-56 lg:h-80 mb-7 mt-5 lg:mr-24 "
           src={AinaImg}
         />
       </div>
